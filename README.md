@@ -93,7 +93,7 @@ endmodule
 ![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%202.png)
 ### TIMING DIGRAMS FOR COUNTER  
 ![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%203.png)
-![output]()
+![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%204.png)
 ### TRUTH TABLE 
 ![output]()
 ![output]()
