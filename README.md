@@ -96,5 +96,6 @@ endmodule
 ![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%204.png)
 ### TRUTH TABLE 
 ![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%205.png)
-![output]()
+![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%206.png)
 ### RESULTS 
+Thus 4 bit up and down counters is implemented and its functionality is validated.
