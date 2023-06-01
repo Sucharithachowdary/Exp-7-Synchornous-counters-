@@ -90,28 +90,12 @@ assign counter=counter_down;
 endmodule
 ```
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-![6 1](
-![6 2]
-
-
-
-
-
-
-
-
-
+![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%201.png)
+![output]()
 ### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
+![output]()
+![output]()
 ### TRUTH TABLE 
-
-
-
-
-
-
+![output]()
+![output]()
 ### RESULTS 
