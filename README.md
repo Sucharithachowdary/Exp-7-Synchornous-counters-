@@ -95,6 +95,6 @@ endmodule
 ![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%203.png)
 ![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%204.png)
 ### TRUTH TABLE 
-![output]()
+![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%205.png)
 ![output]()
 ### RESULTS 
