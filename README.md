@@ -61,7 +61,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by:k sucharitha
 RegisterNumber: 212221240021
 */
-```
+
 UP COUNTER:
 module now(input clk,input reset,output[0:3]counter);
 reg[0:3] counter_up;
@@ -74,8 +74,7 @@ counter_up<=counter_up+4'd1;
 end
 assign counter=counter_up;
 endmodule
-```
-```
+
 DOWN COUNTER:
 module dc(input clk,input reset,output[0:3]counter);
 reg[0:3] counter_down;
@@ -91,7 +90,7 @@ endmodule
 ```
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 ![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%201.png)
-![output]()
+![output](https://github.com/Sucharithachowdary/Exp-7-Synchornous-counters-/blob/main/6%202.png)
 ### TIMING DIGRAMS FOR COUNTER  
 ![output]()
 ![output]()
